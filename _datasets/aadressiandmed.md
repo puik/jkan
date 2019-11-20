@@ -14,7 +14,7 @@ resources:
     url: 'http://xgis.maaamet.ee/adsavalik/ads?xBTN.newvalja'
     format: HTML
     interactive: 'True'
-license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
+license: 'https://creativecommons.org/publicdomain/zero/1.0/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-M'
 date_issued: 2015/04/27
 date_modified: 2019/05/31
